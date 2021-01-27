@@ -15,10 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Демо версия находится на https://fir-vue3-composition-api.web.app/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- В приложение используется Vue3 совместно с Composition API.
+- Приложение позволяет создовать карточки с задачами и обновлять их статусы.
